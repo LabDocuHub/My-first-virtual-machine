@@ -1,8 +1,8 @@
-My-first-virtual-machine
-(Virtual machine documented, problems encountered, solutions noted)
+My-first-virtual-machine  
+(Virtual machine documented, problems encountered, solutions noted)  
 
-#Project Title
+#Project Title  
 
-## How to Run It
+## How to Run It  
 
-###Learning Goals
+###Learning Goals  
